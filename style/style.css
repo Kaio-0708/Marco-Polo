@@ -90,10 +90,6 @@
         font-size: 20px;
         margin-left: 10%;
     }
-
-    .logo{
-        
-    }
     
     .fotos {
         display: flex;
@@ -101,8 +97,9 @@
         align-items: center; 
     }
 
-    .foto{
-          align-items: center; 
+    .foto, .foto__dois{
+        align-items: center; 
+        margin-left: 5%;
     }
     
     .frase__subprincipal {

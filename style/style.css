@@ -82,13 +82,34 @@
 }
 
 @media (max-width: 768px) {
+    .topo{
+        margin: 10px;
+    }
+
+    .frase__principal{
+        font-size: 20px;
+        margin-left: 10%;
+    }
+
+    .logo{
+        
+    }
+    
     .fotos {
         display: flex;
         flex-direction: column;
         align-items: center; 
     }
 
+    .foto{
+          align-items: center; 
+    }
+    
     .frase__subprincipal {
         margin-bottom: 10px; 
+    }
+
+    .rodape{
+        width: 100%;
     }
 }

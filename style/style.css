@@ -84,6 +84,7 @@
 @media (max-width: 768px) {
     .topo{
         margin: 10px;
+        flex-direction: column;
     }
 
     .frase__principal{

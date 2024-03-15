@@ -89,6 +89,17 @@
     .frase__principal{
         font-size: 25px;
         margin-left: 10%;
+        margin-right: auto;
+    }
+
+    .logo{
+        margin-left: 10%;
+        margin-right: auto;
+    }
+
+    
+    .frase__subprincipal {
+        margin-bottom: 10px; 
     }
     
     .fotos {
@@ -102,10 +113,6 @@
         margin-left: 19%;
     }
     
-    .frase__subprincipal {
-        margin-bottom: 10px; 
-    }
-
     .rodape{
         width: 100%;
         font-size: 15px;

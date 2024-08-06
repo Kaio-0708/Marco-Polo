@@ -23,4 +23,8 @@ Este projeto é uma página dedicada a Marco Polo, um exemplar especial da raça
 1. Clone o repositório.
 2. Abra o arquivo `index.html` em um navegador web para visualizar a página.
 
+## Autor
+
+Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
+
 Site: https://marco-polo.vercel.app/
